@@ -1,0 +1,8 @@
+telethon
+python-dotenv
+pandas
+transformers==4.36.0
+datasets==2.14.0
+torch>=1.10.0
+seqeval==1.2.2
+tqdm==4.64.0
